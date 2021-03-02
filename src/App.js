@@ -1,5 +1,6 @@
 import './App.css';
 import Header from './Header';
+import Newsfeed from './Newsfeed';
 
 function App() {
   return (
@@ -12,7 +13,7 @@ function App() {
 
         <div className="app__body">
           <div className="app__container">
-            
+             <Newsfeed />
           </div>
         </div>
 
