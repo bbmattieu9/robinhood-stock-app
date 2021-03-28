@@ -13,7 +13,7 @@ function Newsfeed() {
                     </div>
 
                     <div className="newsfeed__chart">
-                        {/* <LineGraph /> */}
+                        <LineGraph />
                     </div>
                 </div>
 
